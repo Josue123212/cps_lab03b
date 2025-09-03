@@ -2,6 +2,6 @@ package pe.edu.tecsup.lab03.controllers;
 
 public class StudentController {
     public String hello() {
-        return "Hola desde StudentController!, Ander estuvo aqui";
+        return "Hola desde StudentController!, Jonas estuvo aqui";
     }
 }
