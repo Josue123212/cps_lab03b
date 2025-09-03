@@ -4,5 +4,4 @@ public class StudentController {
     public String hello() {
         return "Hola desde StudentController!";
     }
-    public String sayHello() {}
 }
